@@ -1,5 +1,11 @@
 #!/bin/bash
 
+## Author : Xdfx 
+## Github : Xdfx00 
+## Date   : 10/02/2024
+
+
+# Checking .git directory available 
 
 if [[ -d .git  ]]
 then
